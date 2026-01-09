@@ -1,2 +1,2 @@
 # compliance-dd-app
-Compliance Due Diligence Platform
+Compliance Due Diligence Platform.
